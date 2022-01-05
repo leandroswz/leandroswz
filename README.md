@@ -3,6 +3,7 @@
 - Estudante de Análise e Desenvolvimento de Sistemas.
 - Focado atualmente em Front-End
 - Estudando no momento JavaScript
+- Rio de Janeiro
 
 <div>
   <a href="https://github.com/leandroswz">
